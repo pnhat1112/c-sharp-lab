@@ -1,0 +1,204 @@
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.AssemblyReference.cache
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.Form1.resources
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.GenerateResource.cache
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfoInputs.cache
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfo.cs
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CoreCompileInputs.cache
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\appsettings.json
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.exe
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.deps.json
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.json
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.dev.json
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Google.Protobuf.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Humanizer.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.Data.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Zstandard.Net.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Renci.SshNet.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CopyComplete
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\refint\ManageCategoriesApp2.dll
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.genruntimeconfig.cache
+Z:\repos\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ref\ManageCategoriesApp2.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\appsettings.json
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.exe
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.deps.json
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.json
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.dev.json
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Humanizer.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Zstandard.Net.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Renci.SshNet.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.AssemblyReference.cache
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.Form1.resources
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.GenerateResource.cache
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfoInputs.cache
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfo.cs
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CoreCompileInputs.cache
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CopyComplete
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\refint\ManageCategoriesApp2.dll
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.genruntimeconfig.cache
+D:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ref\ManageCategoriesApp2.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\appsettings.json
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.exe
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.deps.json
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.json
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.dev.json
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Google.Protobuf.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Humanizer.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.Data.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Zstandard.Net.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Renci.SshNet.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.AssemblyReference.cache
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.Form1.resources
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.GenerateResource.cache
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfoInputs.cache
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfo.cs
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CoreCompileInputs.cache
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CopyComplete
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\refint\ManageCategoriesApp2.dll
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.genruntimeconfig.cache
+E:\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ref\ManageCategoriesApp2.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\appsettings.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.exe
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.deps.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.runtimeconfig.dev.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Zstandard.Net.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\Renci.SshNet.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.AssemblyReference.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.Form1.resources
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.GenerateResource.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfoInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.AssemblyInfo.cs
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CoreCompileInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.csproj.CopyComplete
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\refint\ManageCategoriesApp2.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ManageCategoriesApp2.genruntimeconfig.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\ManageCategoriesApp2\ManageCategoriesApp2\obj\Debug\net5.0-windows\ref\ManageCategoriesApp2.dll

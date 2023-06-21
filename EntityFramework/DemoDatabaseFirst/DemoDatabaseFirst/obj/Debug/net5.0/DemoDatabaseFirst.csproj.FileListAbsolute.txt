@@ -1,0 +1,61 @@
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.exe
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.deps.json
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.json
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.runtimeconfig.dev.json
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\DemoDatabaseFirst.pdb
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Google.Protobuf.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Humanizer.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\MySql.Data.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Zstandard.Net.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\Renci.SshNet.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\System.Drawing.Common.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\System.Security.Permissions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\System.Windows.Extensions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.AssemblyReference.cache
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfoInputs.cache
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfo.cs
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.CoreCompileInputs.cache
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.CopyComplete
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\refint\DemoDatabaseFirst.dll
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.pdb
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.genruntimeconfig.cache
+Z:\repos\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\ref\DemoDatabaseFirst.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.AssemblyReference.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfoInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.AssemblyInfo.cs
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.csproj.CoreCompileInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\refint\DemoDatabaseFirst.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\EntityFramework\DemoDatabaseFirst\DemoDatabaseFirst\obj\Debug\net5.0\DemoDatabaseFirst.pdb

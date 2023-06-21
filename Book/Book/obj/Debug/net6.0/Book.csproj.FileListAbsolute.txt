@@ -1,0 +1,15 @@
+D:\Learning\Windows\Book\Book\bin\Debug\net6.0\Book.exe
+D:\Learning\Windows\Book\Book\bin\Debug\net6.0\Book.deps.json
+D:\Learning\Windows\Book\Book\bin\Debug\net6.0\Book.runtimeconfig.json
+D:\Learning\Windows\Book\Book\bin\Debug\net6.0\Book.dll
+D:\Learning\Windows\Book\Book\bin\Debug\net6.0\Book.pdb
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.csproj.AssemblyReference.cache
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.AssemblyInfoInputs.cache
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.AssemblyInfo.cs
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.csproj.CoreCompileInputs.cache
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.dll
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\refint\Book.dll
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.pdb
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\Book.genruntimeconfig.cache
+D:\Learning\Windows\Book\Book\obj\Debug\net6.0\ref\Book.dll

@@ -1,0 +1,15 @@
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\bin\Debug\net6.0\OOP.exe
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\bin\Debug\net6.0\OOP.dll
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.dll
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+E:\Tai Lieu Hoc Hanh\Năm 4 Kì 1\Lập Trình Trong Windows\Project\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

@@ -1,0 +1,15 @@
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\bin\Debug\net6.0\appsettings.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\bin\Debug\net6.0\Demo.Module.deps.json
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\bin\Debug\net6.0\Demo.Module.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\bin\Debug\net6.0\Demo.Module.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.csproj.AssemblyReference.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.Reports.DiemLopHP.resources
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.csproj.GenerateResource.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.AssemblyInfoInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.AssemblyInfo.cs
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.csproj.CoreCompileInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\refint\Demo.Module.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\Demo.Module.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DevExpress\THAY THAI\Demo\Demo.Module\obj\Debug\net6.0\ref\Demo.Module.dll

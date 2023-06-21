@@ -1,0 +1,15 @@
+D:\Learning\Windows\SumAdjacent\SumAdjacent\bin\Debug\net6.0\SumAdjacent.exe
+D:\Learning\Windows\SumAdjacent\SumAdjacent\bin\Debug\net6.0\SumAdjacent.deps.json
+D:\Learning\Windows\SumAdjacent\SumAdjacent\bin\Debug\net6.0\SumAdjacent.runtimeconfig.json
+D:\Learning\Windows\SumAdjacent\SumAdjacent\bin\Debug\net6.0\SumAdjacent.dll
+D:\Learning\Windows\SumAdjacent\SumAdjacent\bin\Debug\net6.0\SumAdjacent.pdb
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.csproj.AssemblyReference.cache
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.AssemblyInfoInputs.cache
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.AssemblyInfo.cs
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.csproj.CoreCompileInputs.cache
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.dll
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\refint\SumAdjacent.dll
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.pdb
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\SumAdjacent.genruntimeconfig.cache
+D:\Learning\Windows\SumAdjacent\SumAdjacent\obj\Debug\net6.0\ref\SumAdjacent.dll

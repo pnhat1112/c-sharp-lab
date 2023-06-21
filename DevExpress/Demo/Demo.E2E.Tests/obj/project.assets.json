@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Demo.Module/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Demo.Module.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.Module.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Module/1.0.0": {
+      "type": "project",
+      "path": "../Demo.Module/Demo.Module.csproj",
+      "msbuildProject": "../Demo.Module/Demo.Module.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Demo.Module >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "D:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Learning\\VKU\\Năm 4 Kì 1\\Windows\\Project\\DevExpress\\Demo\\Demo.E2E.Tests\\Demo.E2E.Tests.csproj",
+      "projectName": "Demo.E2E.Tests",
+      "projectPath": "D:\\Learning\\VKU\\Năm 4 Kì 1\\Windows\\Project\\DevExpress\\Demo\\Demo.E2E.Tests\\Demo.E2E.Tests.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\VKU\\Năm 4 Kì 1\\Windows\\Project\\DevExpress\\Demo\\Demo.E2E.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "projectReferences": {
+            "D:\\Learning\\VKU\\Năm 4 Kì 1\\Windows\\Project\\DevExpress\\Demo\\Demo.Module\\Demo.Module.csproj": {
+              "projectPath": "D:\\Learning\\VKU\\Năm 4 Kì 1\\Windows\\Project\\DevExpress\\Demo\\Demo.Module\\Demo.Module.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "targetAlias": "net452",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

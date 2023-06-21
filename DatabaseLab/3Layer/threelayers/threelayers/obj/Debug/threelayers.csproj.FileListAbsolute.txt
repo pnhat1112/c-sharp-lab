@@ -1,0 +1,84 @@
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\threelayers.exe.config
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\threelayers.exe
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\threelayers.pdb
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Npgsql.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Buffers.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Memory.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Text.Json.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Threading.Channels.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.ValueTuple.dll
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\Npgsql.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Buffers.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Memory.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Text.Json.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Threading.Channels.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\bin\Debug\System.ValueTuple.xml
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.csproj.AssemblyReference.cache
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.GUI.resources
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.Properties.Resources.resources
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.csproj.GenerateResource.cache
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.csproj.CopyComplete
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.exe
+C:\Users\Thanh Tuan\source\repos\threelayers\threelayers\obj\Debug\threelayers.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\threelayers.exe.config
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\threelayers.exe
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\threelayers.pdb
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Npgsql.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Buffers.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Collections.Immutable.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Memory.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Numerics.Vectors.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Text.Encodings.Web.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Text.Json.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Threading.Channels.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.ValueTuple.dll
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\Npgsql.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Buffers.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Collections.Immutable.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Memory.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Numerics.Vectors.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Text.Encodings.Web.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Text.Json.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Threading.Channels.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\bin\Debug\System.ValueTuple.xml
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.csproj.AssemblyReference.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.csproj.SuggestedBindingRedirects.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.GUI.resources
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.Properties.Resources.resources
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.csproj.GenerateResource.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.csproj.CoreCompileInputs.cache
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.csproj.CopyComplete
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.exe
+D:\Learning\VKU\Năm 4 Kì 1\Windows\Project\DatabaseLab\3Layer\threelayers\threelayers\obj\Debug\threelayers.pdb
